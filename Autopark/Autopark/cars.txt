@@ -1,0 +1,17 @@
+4
+Subaru
+Forester
+SUV
+2008
+Toyota
+Camry
+Седан
+2006
+Lada
+Priora
+Седан
+1999
+Hummer
+H1
+Внедорожник
+2005
